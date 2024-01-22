@@ -16,6 +16,6 @@ I have experience in most coding languages including Javascript, Python, C, C# a
 
 ## Contacts
 
-[<img src="https://github.com/naaman126/About-Me/blob/main/linkedin.svg" width="40px"> ](https://www.linkedin.com/in/nignacio10521836/)
-[<img src="https://github.com/naaman126/About-Me/blob/main/gmail.svg" width="40px"> ](naaman126@gmail.com)
-[<img src="https://github.com/naaman126/About-Me/blob/main/facebook.svg" width="40px"> ](https://www.facebook.com/naaman.ignacio/)
+[<img src="https://github.com/naaman126/About-Me/blob/main/linkedin.svg" width="40px">](https://www.linkedin.com/in/nignacio10521836/)<br />
+[<img src="https://github.com/naaman126/About-Me/blob/main/gmail.svg" width="40px">](naaman126@gmail.com)<br />
+[<img src="https://github.com/naaman126/About-Me/blob/main/facebook.svg" width="40px">](https://www.facebook.com/naaman.ignacio/)
