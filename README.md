@@ -8,6 +8,8 @@ My name is Naaman Ignacio, I am a recent graduate (2023) from Queensland Univers
 * Hobbies: Basketball, Boxing, Gym, Anime
 * MBTI Personality type: ENFP
 
+![](https://github.com/naaman126/About-Me/blob/main/giphy.gif)
+
 ## Coding Experience
 
 
