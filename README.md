@@ -1,7 +1,5 @@
 # About-Me
 
-![](https://github.com/naaman126/About-Me/blob/main/5e48c6ed0db25888e85f537b64e86b9c.gif)
-
 Hello, welcome to my GitHub!!! 
 
 ![](https://github.com/naaman126/About-Me/blob/main/200w.gif)
