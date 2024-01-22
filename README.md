@@ -12,4 +12,7 @@ My name is Naaman Ignacio, I am a recent graduate (2023) from Queensland Univers
 
 ## Coding Experience
 
+I have experience in most coding languages including Javascript, Python, C, C# and Java, however currently I am trying to hone my skills in Javascript and Python which will be most of the projects that are uploaded to this Github.
+
+## Contacts
 
