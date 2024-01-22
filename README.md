@@ -16,5 +16,5 @@ I have experience in most coding languages including Javascript, Python, C, C# a
 
 ## Contacts
 
-[<img src="https://github.com/naaman126/About-Me/blob/main/linkedin.svg"> width="40px"](https://www.linkedin.com/in/nignacio10521836/)
+[<img src="https://github.com/naaman126/About-Me/blob/main/linkedin.svg" width="40px"> ](https://www.linkedin.com/in/nignacio10521836/)
 
