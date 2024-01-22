@@ -16,7 +16,5 @@ I have experience in most coding languages including Javascript, Python, C, C# a
 
 ## Contacts
 
-![LinkedIn]({https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white})
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+[<img src="https://github.com/naaman126/About-Me/blob/main/linkedin.svg">](www.linkedin.com/in/nignacio10521836)
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
